@@ -5,3 +5,4 @@ joblib
 requests
 streamlit-lottie
 scikit-learn
+xgboost
